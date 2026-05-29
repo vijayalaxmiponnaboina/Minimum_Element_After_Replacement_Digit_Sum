@@ -1,0 +1,1 @@
+# Minimum_Element_After_Replacement_Digit_Sum
